@@ -5,3 +5,4 @@
 | 3 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | LeetCode | Easy | 04 Jun 2026 | 07:15 am |
 | 4 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | LeetCode | Easy | 04 Jun 2026 | 07:16 am |
 | 5 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | LeetCode | Easy | 13 Jun 2026 | 05:17 am |
+| 6 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | LeetCode | Easy | 13 Jun 2026 | 05:25 am |

@@ -1,11 +1,11 @@
 {
-  "totalSolved": 5,
+  "totalSolved": 6,
   "currentStreak": 1,
   "maxStreak": 2,
   "lastSyncDate": "2026-06-13",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 4,
+    "easy": 5,
     "medium": 1,
     "hard": 0,
     "basic": 0
@@ -15,19 +15,21 @@
     "LeetCode_Concatenation_of_Array": true,
     "LeetCode_Contains_Duplicate": true,
     "LeetCode_Find_the_Index_of_the_First_Occurrence_in_a_String": true,
-    "LeetCode_Design_HashSet": true
+    "LeetCode_Design_HashSet": true,
+    "LeetCode_Design_HashMap": true
   },
   "activityHistory": {
     "2026-05-23": 1,
     "2026-06-03": 1,
     "2026-06-04": 2,
-    "2026-06-13": 1
+    "2026-06-13": 2
   },
   "todayProblems": [
     "Count and Say",
     "Concatenation of Array",
     "Contains Duplicate",
     "Find the Index of the First Occurrence in a String",
-    "Design HashSet"
+    "Design HashSet",
+    "Design HashMap"
   ]
 }

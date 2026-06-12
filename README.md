@@ -4,3 +4,4 @@
 | 2 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | LeetCode | Easy | 03 Jun 2026 | 09:09 pm |
 | 3 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | LeetCode | Easy | 04 Jun 2026 | 07:15 am |
 | 4 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | LeetCode | Easy | 04 Jun 2026 | 07:16 am |
+| 5 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | LeetCode | Easy | 13 Jun 2026 | 05:17 am |
